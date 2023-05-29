@@ -2,3 +2,4 @@ intro i=1
 
 var=ilk komut
 
+ikinci commit için 
