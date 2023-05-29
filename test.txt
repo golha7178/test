@@ -1,0 +1,4 @@
+intro i=1
+
+var=ilk komut
+
